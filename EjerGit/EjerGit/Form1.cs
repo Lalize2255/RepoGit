@@ -15,6 +15,9 @@ namespace EjerGit
         public Form1()
         {
             InitializeComponent();
+
+
+            // hola mundo
         }
     }
 }
